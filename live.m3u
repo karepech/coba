@@ -2,28 +2,28 @@
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/VEbUp3IIvV32DQBn-03sSMCArtg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5285547/970981.jpg",FTV Pagi : Cintaku Zonk Ke Pelaminan
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=204&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=204&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/VEbUp3IIvV32DQBn-03sSMCArtg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5285547/970981.jpg",FTV Pagi : Cintaku Zonk Ke Pelaminan (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=204&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=204&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=204&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=204&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg",Kisah Nyata Pagi : Petaka Dibalik Keretakan Rumah Tanggaku
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=205&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=205&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/gxy8QH6sCBLPn-U8t43dA0neRkE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg",Kisah Nyata Pagi : Petaka Dibalik Keretakan Rumah Tanggaku (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=205&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=205&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=205&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=205&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/0f2I5boA9LShVN7cMKGpHG7T9gQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-aac20c.jpg",Layar Drama Indonesia Pagi : Terlanjur Mencintaimu Arumi (Rr)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -67,67 +67,67 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/734/file/drm/hls/mas
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/bWhkAc4BN7reztqr_lDJc7om87w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5284593/767792.png",Mega Bollywood : Pyaar Toh Hona Hi Tha
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=782&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=782&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/bWhkAc4BN7reztqr_lDJc7om87w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5284593/767792.png",Mega Bollywood : Pyaar Toh Hona Hi Tha (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=782&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=782&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=782&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=782&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg",Pagi-Pagi Seru
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=783&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=783&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg",Pagi-Pagi Seru (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=783&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=783&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=783&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=783&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg",Ungkap
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=206&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=206&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/k-sY_yuIcw_2WlMiaRGVZf_ctXI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg",Ungkap (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=206&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=206&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=206&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=206&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg",Mimbar Agama Hindu
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6441&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6441&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg",Mimbar Agama Hindu (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6441&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6441&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6441&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6441&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg",Cona Blue
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=5415&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=5415&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/3L_QHkQKeNS3CiLUj1Ya4s08I3Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-72a5da.jpg",Cona Blue (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=5415&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=5415&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=5415&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=5415&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/GWv76n7Z4HUSudFp4xD9VNQ9Xk0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnctv-72967a.jpg",Sahabat Selamanya Upin & Ipin
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -145,15 +145,15 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/870/file/drm/
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg",Berita Utama
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=874&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=874&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg",Berita Utama (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=874&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=874&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=874&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=874&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/LDg7wQmlx1J5_2AkdOGtXtMEJmk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/gtv-0f1c2d.jpg",Amazing Kids : Pada Zaman Dahulu
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -171,15 +171,15 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/778/file/drm/
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg",Zona Bisnis
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=777&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=777&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg",Zona Bisnis (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=777&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=777&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=777&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=777&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg",Breaking News
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -197,132 +197,132 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/5409/file/drm
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/IReT-5y6B0A3t-dMZBdvamR74ww=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg",Metal Cardbot
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=1561&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=1561&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/IReT-5y6B0A3t-dMZBdvamR74ww=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg",Metal Cardbot (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=1561&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=1561&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=1561&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=1561&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/po6DDg81oPro90ij_7UVOqiMZ98=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg",Sensasihot
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=875&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=875&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/po6DDg81oPro90ij_7UVOqiMZ98=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg",Sensasihot (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=875&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=875&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=875&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=875&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg",Investor Market Today
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18280&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18280&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg",Investor Market Today (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18280&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18280&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18280&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18280&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg",Investor Market Today
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6165&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6165&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/_BxJeS85VII-ISq9BAZ9MWlAw30=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg",Investor Market Today (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6165&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6165&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6165&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6165&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg",Anak Indonesia
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18162&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18162&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg",Anak Indonesia (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18162&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18162&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18162&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18162&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg",Musica Hits
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=9713&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=9713&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/gQsLCQtTmBo5d8ntn--ztw6BqNY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9713/jawa-pos-tv-779e10.jpg",Musica Hits (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=9713&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=9713&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=9713&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=9713&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg",Pesantren Dan Rock N Roll
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7464&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7464&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg",Pesantren Dan Rock N Roll (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7464&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7464&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7464&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7464&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg",Nusantara Economic Updates
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7432&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7432&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg",Nusantara Economic Updates (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7432&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7432&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7432&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7432&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg",Bincang Sehati
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6482&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6482&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/QZT3Rz43nCZH_USTXiwmuK3rcZw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-83240c.jpg",Bincang Sehati (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6482&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6482&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6482&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6482&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg",Bintang Kecil
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=9714&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=9714&type=hls
 #EXTINF:-1 group-title="LIVE TV - TV Nasional" tvg-logo="https://thumbor.prod.vidiocdn.com/OjwFYSw1LBL0_wdt6Q5fkrNjnio=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9714/jawa-pos-tv-da3bbf.jpg",Bintang Kecil (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=9714&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=9714&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=9714&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=9714&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Olahraga" tvg-logo="https://thumbor.prod.vidiocdn.com/H3XxNvjGAymjg2Qyb-rvkzolS6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/20216/champion-fight-c7c19e.jpg",ONE - One Samurai 1
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -587,28 +587,28 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/17278/file/dr
 #EXTINF:-1 group-title="LIVE TV - Hiburan" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg",Culture Crunch [L]
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6784&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6784&type=hls
 #EXTINF:-1 group-title="LIVE TV - Hiburan" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg",Culture Crunch [L] (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6784&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6784&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6784&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6784&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Hiburan" tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg",MUSICA
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7619&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7619&type=hls
 #EXTINF:-1 group-title="LIVE TV - Hiburan" tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg",MUSICA (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7619&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7619&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7619&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7619&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Hiburan" tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg",Magna TV
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -626,15 +626,15 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.mpd
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/nNXh7qb2ZgetCPk7CN7hyyoKqLo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg",Newshour
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6410&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6410&type=hls
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/nNXh7qb2ZgetCPk7CN7hyyoKqLo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg",Newshour (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6410&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6410&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6410&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6410&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/Qmg51k_L3f4RoyW0p3rmhaflkuU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-1b9437.jpg",Breaking News
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -652,80 +652,80 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/5409/file/drm
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg",Pagi-Pagi Seru
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=783&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=783&type=hls
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/wVMpYd5wTob7JQJ62BWlPTWG--Y=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg",Pagi-Pagi Seru (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=783&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=783&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=783&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=783&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg",Berita Utama
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=874&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=874&type=hls
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/hEIoJ7adV7Pjb8EgAO5Kkrvni8s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg",Berita Utama (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=874&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=874&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=874&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=874&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg",Zona Bisnis
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=777&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=777&type=hls
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/GRiO5cAOau_WcE1lzhFq51j1eAY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-2eba56.jpg",Zona Bisnis (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=777&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=777&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=777&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=777&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg",Anak Indonesia
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18162&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18162&type=hls
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/5HMNjpeS6Q0Y2Ao9oSDAaW3IHaY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18162/garuda-tv-b27da3.jpg",Anak Indonesia (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18162&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18162&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18162&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18162&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg",Investor Market Today
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18280&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18280&type=hls
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/BaOhOMeyQ6fF-jCy0ej0sS_we5c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18280/berita-satu-f3779f.jpg",Investor Market Today (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18280&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18280&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18280&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18280&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/-fJcdGieHvetPDosR_ZwDD-YE5M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg",Catatan Kriminal
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=19046&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=19046&type=hls
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/-fJcdGieHvetPDosR_ZwDD-YE5M=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19046/sin-po-tv-c5cad0.jpg",Catatan Kriminal (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=19046&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=19046&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=19046&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=19046&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/nBRneLipjed0tzgVoHIft83fOYk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6411/news-asia-31d4e8.jpg",Windows on The World
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -743,54 +743,54 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.mpd
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/HyJOKvUu7_oA8wWozEtI-3W1v1s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-4aa968.jpg",Global US
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=5075&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=5075&type=hls
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/HyJOKvUu7_oA8wWozEtI-3W1v1s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-4aa968.jpg",Global US (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=5075&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=5075&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=5075&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=5075&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/W08g9zS7QaGtPMErcsZ81Va_dKc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6412/euronews-795a60.jpg",The European debrief
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6412&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6412&type=hls
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/W08g9zS7QaGtPMErcsZ81Va_dKc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6412/euronews-795a60.jpg",The European debrief (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6412&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6412&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6412&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6412&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/ylbaeruDsVWau2s0PNo5jyEL9XE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg",Landline - Episode 28
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7150&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7150&type=hls
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/ylbaeruDsVWau2s0PNo5jyEL9XE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg",Landline - Episode 28 (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7150&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7150&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7150&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7150&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg",Nusantara Economic Updates
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7432&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7432&type=hls
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/I0RnDq0LuQmzX-3UNATgRJ4ftxQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-b373d0.jpg",Nusantara Economic Updates (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7432&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7432&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7432&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7432&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/dqu2d5vovPKc448pBIc6ihswPTU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg",Frontrunners
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -808,28 +808,28 @@ https://production-nhk-vidio-com.akamaized.net/00489ab02a9d71cc/wXfEzh7gCnHgIYYY
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/i_FKiCjf7lWJtJy8QqSg6bvb7Qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-d41bbb.jpg",News
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=12784&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=12784&type=hls
 #EXTINF:-1 group-title="LIVE TV - Berita" tvg-logo="https://thumbor.prod.vidiocdn.com/i_FKiCjf7lWJtJy8QqSg6bvb7Qw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12784/africanews-d41bbb.jpg",News (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=12784&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=12784&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=12784&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=12784&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Anak dan Ilmu Pengetahuan" tvg-logo="https://thumbor.prod.vidiocdn.com/NtYMeVNZhPNyxZukYP38ohlF988=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg",Katuri
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=8237&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=8237&type=hls
 #EXTINF:-1 group-title="LIVE TV - Anak dan Ilmu Pengetahuan" tvg-logo="https://thumbor.prod.vidiocdn.com/NtYMeVNZhPNyxZukYP38ohlF988=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-01d2b0.jpg",Katuri (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=8237&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=8237&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=8237&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=8237&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Anak dan Ilmu Pengetahuan" tvg-logo="https://thumbor.prod.vidiocdn.com/MO29LQSLBb-CrxAR-emGtTfpxs8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-bd851f.jpg",TAYO
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -860,150 +860,150 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/6397/file/drm
 #EXTINF:-1 group-title="LIVE TV - Religi" tvg-logo="https://thumbor.prod.vidiocdn.com/zE793GEKRyoy_BJxLu-Db2tsz1k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18622/daystar-tv-4eddcd.jpg",Paula Today
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18622&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18622&type=hls
 #EXTINF:-1 group-title="LIVE TV - Religi" tvg-logo="https://thumbor.prod.vidiocdn.com/zE793GEKRyoy_BJxLu-Db2tsz1k=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18622/daystar-tv-4eddcd.jpg",Paula Today (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18622&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18622&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18622&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18622&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Religi" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg",Pesantren Dan Rock N Roll
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7464&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7464&type=hls
 #EXTINF:-1 group-title="LIVE TV - Religi" tvg-logo="https://thumbor.prod.vidiocdn.com/kb9YJxwGUw22IXVI8dGwpDltMl0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg",Pesantren Dan Rock N Roll (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7464&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=7464&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7464&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=7464&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Religi" tvg-logo="https://thumbor.prod.vidiocdn.com/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg",Makkah TV
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6852&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6852&type=hls
 #EXTINF:-1 group-title="LIVE TV - Religi" tvg-logo="https://thumbor.prod.vidiocdn.com/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg",Makkah TV (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6852&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6852&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6852&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6852&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Religi" tvg-logo="https://thumbor.prod.vidiocdn.com/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg",U-Channel TV
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6898&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6898&type=hls
 #EXTINF:-1 group-title="LIVE TV - Religi" tvg-logo="https://thumbor.prod.vidiocdn.com/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg",U-Channel TV (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6898&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=6898&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6898&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=6898&type=dash
 
 #EXTINF:-1 group-title="LIVE TV - Religi" tvg-logo="https://thumbor.prod.vidiocdn.com/c_718cCh2RH2UIUd4C3juKKZ9Wc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12607/dmi-tv-8f4cb7.jpg",DMI TV
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=12607&type=hls
+https://boti.my.id//index.m3u8?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=12607&type=hls
 #EXTINF:-1 group-title="LIVE TV - Religi" tvg-logo="https://thumbor.prod.vidiocdn.com/c_718cCh2RH2UIUd4C3juKKZ9Wc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/12607/dmi-tv-8f4cb7.jpg",DMI TV (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=12607&type=drm
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=12607&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=12607&type=drm
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=12607&type=dash
 
 #EXTINF:-1 group-title="LIVE NOW - LI-NING China Masters 2026 - Round Of 32 (Court 1)" tvg-logo="https://thumbor.prod.vidiocdn.com/RnQ839xVET9GR8xrrxk3luoyw2w=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/li-ning-china-masters-2026-round-of-32-court-1-db0daa.jpg",Lakshya Sen (IND) vs Victor Lai (CAN) - Men's Singles Round of 32 | LI-NING China Masters 2026 - 08:00 WIB 02-09-2026
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18249&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18249&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18249&type=dash
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18249&type=dash
 #EXTINF:-1 group-title="LIVE NOW - LI-NING China Masters 2026 - Round Of 32 (Court 1)" tvg-logo="https://thumbor.prod.vidiocdn.com/RnQ839xVET9GR8xrrxk3luoyw2w=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/li-ning-china-masters-2026-round-of-32-court-1-db0daa.jpg",Lakshya Sen (IND) vs Victor Lai (CAN) - Men's Singles Round of 32 | LI-NING China Masters 2026 - 08:00 WIB 02-09-2026 (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18249&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18249&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18249&type=dash
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18249&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18249&type=dash
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18249&type=dash
 
 #EXTINF:-1 group-title="LIVE NOW - LI-NING China Masters 2026 - Round Of 32 (Court 2)" tvg-logo="https://thumbor.prod.vidiocdn.com/KhvAVzPfBO9axoX_YQFnCaVWoJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5303660/ff6c68.jpg",Panitchaphon Teeraratsakul (THA) vs Christo Popov (FRA) - Men's Singles Round of 32 | LI-NING China Masters 2026 - 08:00 WIB 02-09-2026
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18250&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18250&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18250&type=dash
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18250&type=dash
 #EXTINF:-1 group-title="LIVE NOW - LI-NING China Masters 2026 - Round Of 32 (Court 2)" tvg-logo="https://thumbor.prod.vidiocdn.com/KhvAVzPfBO9axoX_YQFnCaVWoJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5303660/ff6c68.jpg",Panitchaphon Teeraratsakul (THA) vs Christo Popov (FRA) - Men's Singles Round of 32 | LI-NING China Masters 2026 - 08:00 WIB 02-09-2026 (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18250&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18250&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18250&type=dash
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18250&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18250&type=dash
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18250&type=dash
 
 #EXTINF:-1 group-title="LIVE NOW - LI-NING China Masters 2026 - Round Of 32 (Court 3)" tvg-logo="https://thumbor.prod.vidiocdn.com/suQqQ8WHleR1kG85aF2Cemhm3fw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/li-ning-china-masters-2026-round-of-32-court-3-94d9e1.jpg",Julien Carraggi (BEL) vs Yudai Okimoto (JPN) - Men's Singles Round of 32 | LI-NING China Masters 2026 - 08:00 WIB 02-09-2026
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18252&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18252&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18252&type=dash
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18252&type=dash
 #EXTINF:-1 group-title="LIVE NOW - LI-NING China Masters 2026 - Round Of 32 (Court 3)" tvg-logo="https://thumbor.prod.vidiocdn.com/suQqQ8WHleR1kG85aF2Cemhm3fw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/li-ning-china-masters-2026-round-of-32-court-3-94d9e1.jpg",Julien Carraggi (BEL) vs Yudai Okimoto (JPN) - Men's Singles Round of 32 | LI-NING China Masters 2026 - 08:00 WIB 02-09-2026 (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18252&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18252&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18252&type=dash
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=18252&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18252&type=dash
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=18252&type=dash
 
 #EXTINF:-1 group-title="LIVE NOW - SPOTV" tvg-logo="https://thumbor.prod.vidiocdn.com/G6MkjekDheTo9lCCS5KRM-irPU8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5297201/4984a3.png",Alexander Zverev vs Lorenzo Sonego - Men's Singles Round 1 | US Open Tennis Championships 2026 - 07:50 WIB 02-09-2026
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=17139&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=17139&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=17139&type=dash
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=17139&type=dash
 #EXTINF:-1 group-title="LIVE NOW - SPOTV" tvg-logo="https://thumbor.prod.vidiocdn.com/G6MkjekDheTo9lCCS5KRM-irPU8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5297201/4984a3.png",Alexander Zverev vs Lorenzo Sonego - Men's Singles Round 1 | US Open Tennis Championships 2026 - 07:50 WIB 02-09-2026 (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=17139&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=17139&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=17139&type=dash
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=17139&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=17139&type=dash
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=17139&type=dash
 
 #EXTINF:-1 group-title="LIVE NOW - SPOTV 2" tvg-logo="https://thumbor.prod.vidiocdn.com/XiThHc74qd8ZITXgSc-d2j21ct4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5297195/0242ec.png",Mary Stoiana vs Alexandra Eala - Women's Singles Round 1 | US Open Tennis Championships 2026 - 08:43 WIB 02-09-2026
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=17140&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=17140&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=17140&type=dash
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=17140&type=dash
 #EXTINF:-1 group-title="LIVE NOW - SPOTV 2" tvg-logo="https://thumbor.prod.vidiocdn.com/XiThHc74qd8ZITXgSc-d2j21ct4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5297195/0242ec.png",Mary Stoiana vs Alexandra Eala - Women's Singles Round 1 | US Open Tennis Championships 2026 - 08:43 WIB 02-09-2026 (DASH)
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=17140&type=drm
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.php?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=17140&type=drm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=17140&type=dash
-https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=2QzpdQ4Zq7KikAkYvm7J&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI1MzY0OX0.nVDvgOln-z73Zp-POMasNwBBzIayPGaQTl3Ln-C8InY&id=17140&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=17140&type=dash
+https://boti.my.id//index.mpd?u=mbkidriss9%40gmail.com&x=5s-waMPRxhE1shPHBurz&a=eyJhbGciOiJIUzI1NiJ9.eyJkYXRhIjp7InR5cGUiOiJhY2Nlc3NfdG9rZW4iLCJ1aWQiOjIyMjMzNzE5NH0sImV4cCI6MTc4OTI2NTcwNX0.8-HnoYziWE0uLZATEzniIxAZRU1pGRTBCKxq_7cHcEM&id=17140&type=dash
 
